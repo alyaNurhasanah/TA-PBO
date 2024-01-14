@@ -1,0 +1,9 @@
+============STRUK Pesanan============
+Nama Pembeli : aa
+No.ID        : 1
+NO.HP        : 1
+Alamat       : aa
+Total Harga  : 600000
+==============================================
+=======Terima Kasih Atas Kunjungan Anda=======
+==============================================
